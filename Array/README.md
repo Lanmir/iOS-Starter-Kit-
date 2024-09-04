@@ -1,6 +1,7 @@
 # Array
 
-An Array is used to store a list of items , another feature of arrays is that it stores values in an ordered list
+An `array` stores values of the same type in an ordered list. The same value can appear in an array multiple times at different positions.
+
 Here's how it would look
 |Index|Value|
 |-----|-----|
