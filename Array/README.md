@@ -1,6 +1,6 @@
 # Arrays
 ## Array
-An `array` stores values of the same type in an ordered list. The same value can appear in an array multiple times at different positions. The full array syntax is `Array<Element>`., but generally the shorthand `[Element]` is preferred and used. 
+An `array` stores values of the same type in an ordered list. The same value can appear in an array multiple times at different positions. The full array syntax is `Array<Element>`, but generally the shorthand `[Element]` is preferred and used. 
 
 
 Here's how it would look
