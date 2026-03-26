@@ -12,6 +12,7 @@ This is what a function call looks like:`functionName(parameter1: argument1, …
 func greet(person: String) -> String {
 	let greeting = "Hello, " + person + "!"
 	return greeting
+
 }
 ```
 ## Parameters and Return Types
