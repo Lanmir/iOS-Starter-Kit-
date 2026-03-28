@@ -1,3 +1,3 @@
 # Enums
 
-Enums
+Enums are
