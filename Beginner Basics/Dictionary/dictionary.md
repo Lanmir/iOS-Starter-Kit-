@@ -34,6 +34,7 @@ contactList.count == 0
 contactList.isEmpty 
 ```
 ### Dictionary Default Values
+
 When accessing a value from a Swift dictionary using a key that doesn't exist, the dictionary returns `nil`. While this is often the desired behavior, you might want to provide a default value for missing keys.
 ```swift
 let iceCreamPreferences = [
