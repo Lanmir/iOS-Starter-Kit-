@@ -139,6 +139,7 @@ extension Greetable {
 }
 ```
 >  Now conforming types get a default implementation.
+
 ```swift
 struct Person: Greetable {}
 
