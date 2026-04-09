@@ -155,7 +155,6 @@ Use closures when:
 -   Handling async operations (callbacks)
 -   Writing short, inline logic
 
-
 ## Common Real-world Examples
 
 -   API callbacks (success / failure handlers)
