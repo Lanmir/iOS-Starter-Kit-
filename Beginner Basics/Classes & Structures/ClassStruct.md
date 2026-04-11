@@ -216,12 +216,14 @@ class FileHandler {
 -   You require inheritance
 -   You’re working with reference-based logic (like UIKit)
 
-----------
+
 
 ## Common Real-world Examples
 
 -   **Structs** → Models, data containers, API responses
 -   **Classes** → ViewControllers, Managers, Services
+
+----------
 
 > **Note**: In Swift, prefer **structs by default**.
 Switch to classes only when you specifically need : 1) shared references , 2)  inheritance.
